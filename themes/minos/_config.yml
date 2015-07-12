@@ -1,0 +1,17 @@
+# Header
+logo_text: uname's blog
+# Add text logo instead of logo image
+menu:
+  Home: /
+  Archives: archives
+  Categories: categories
+  Tags: tags
+  About: about
+
+# Content
+excerpt_link: Read More
+fancybox: true
+
+# Miscellaneous
+google_analytics:
+favicon: /favicon.png
