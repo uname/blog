@@ -12,5 +12,6 @@ tags:
     }
 ```
 
-项目的结构和app模块的build.gradle文件看起来是这样的：
+
+- 项目的结构和app模块的build.gradle文件看起来是这样的：
 ![](/images/use-so-in-android-studio/1.png)
