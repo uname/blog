@@ -25,3 +25,13 @@ http://jakewharton.github.io/butterknife/
 
 小提示：被注解的view对象不可以再使用private修饰了。
 
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-66724960-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
