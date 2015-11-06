@@ -9,3 +9,5 @@ tags:
 5. [Arduino - ATMega328P](/images/programmer-charts/arduino-ATMega328p.png)
 6. [Arduino - ATMega2560](/images/programmer-charts/arduino-ATMega2560.png)
 7. [Arduino - ATTiny](/images/programmer-charts/arduino-ATTiny.jpg)
+8. [Python - Struct 类型对照表](/images/programmer-charts/struct.png)
+
